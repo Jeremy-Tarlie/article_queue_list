@@ -43,7 +43,8 @@ Ce projet est une application en ligne de commande qui utilise des structures de
 2. Installez les dépendances :
 
    ```bash
-   pip install -r requirements.txt
+   pip install requests
+   pip install dotenv
    ```
 
 3. Configurez votre clé API :
